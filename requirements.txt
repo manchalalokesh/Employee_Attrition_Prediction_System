@@ -1,7 +1,5 @@
-
 pandas 
 numpy
-seaborn
 scikit-learn
 joblib
 streamlit
@@ -9,3 +7,4 @@ plotly
 shap
 imblanced-learn
 matplotlib
+seaborn
